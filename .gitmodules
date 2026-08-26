@@ -1,0 +1,9 @@
+[submodule "API-gateway"]
+	path = API-gateway
+	url = https://github.com/PraveenRusiru/API-gateway.git
+[submodule "Config-server"]
+	path = Config-server
+	url = https://github.com/PraveenRusiru/Config-server.git
+[submodule "Service-registry"]
+	path = Service-registry
+	url = https://github.com/PraveenRusiru/Service-registry.git
